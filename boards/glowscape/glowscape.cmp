@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-07-08)-stable date = Fri 17 Feb 2012 03:12:52 AM EST
+Cmp-Mod V01 Created by CvPCB (2011-07-08)-stable date = Sun 19 Feb 2012 09:53:43 PM EST
 
 BeginCmp
 TimeStamp = /4F2F6A5A;
@@ -225,6 +225,13 @@ IdModule  = PIN;
 EndCmp
 
 BeginCmp
+TimeStamp = /4F41B10C;
+Reference = PXERR1;
+ValeurCmp = CONN_1;
+IdModule  = PIN;
+EndCmp
+
+BeginCmp
 TimeStamp = /4F2F7182;
 Reference = R1;
 ValeurCmp = 10K;
@@ -298,7 +305,7 @@ BeginCmp
 TimeStamp = /4F2F6A49;
 Reference = RV1;
 ValeurCmp = 10K;
-IdModule  = R3;
+IdModule  = SIL-3;
 EndCmp
 
 BeginCmp

@@ -1,4 +1,4 @@
-update=Fri 17 Feb 2012 03:11:49 AM EST
+update=Sun 19 Feb 2012 10:10:05 PM EST
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -85,9 +85,9 @@ LibName37=xo-14s
 LibName38=diy_connectors
 [pcbnew]
 version=1
-PadDrlX=800
-PadDimH=800
-PadDimV=800
+PadDrlX=320
+PadDimH=600
+PadDimV=600
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
