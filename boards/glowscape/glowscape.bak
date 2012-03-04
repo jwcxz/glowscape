@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 20 Feb 2012 05:59:27 AM EST
+EESchema Schematic File Version 2  date Sun 04 Mar 2012 02:17:33 AM EST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -40,13 +40,13 @@ LIBS:diy_connectors
 LIBS:glowscape-cache
 EELAYER 25  0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Glowscape"
 Date "20 feb 2012"
-Rev ""
-Comp ""
+Rev "1.0"
+Comp "JWC"
 Comment1 ""
 Comment2 ""
 Comment3 ""
