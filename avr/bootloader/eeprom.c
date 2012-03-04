@@ -1,1 +1,1 @@
-../ledctrlr/eeprom.c
+../glowscape/eeprom.c
